@@ -2,7 +2,7 @@ Horoscoped is made to tell you your horoscope and just a little bit about you, p
 
 Link to project: (https://horoscoped.netlify.app/)
 
-![alt tag](https://i.imgur.com/6GHLf96.png)
+![alt tag](https://i.imgur.com/50FpFtT.png)
 
 How It's Made:
 Tech used: HTML, CSS, Javascript
