@@ -1,6 +1,6 @@
 Horoscoped is made to tell you your horoscope and just a little bit about you, put your friends and family birthday in as well! 
 
-Link to project: https://philthypaws.netlify.app/
+Link to project: (https://horoscoped.netlify.app/)
 
 ![alt tag](https://i.imgur.com/6GHLf96.png)
 
